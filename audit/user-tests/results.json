@@ -1,0 +1,55 @@
+{
+  "mode": "Built browser app with Chrome/API fixtures; extension installation unverified",
+  "browser": "159.0.8154.6",
+  "results": [
+    {
+      "name": "Built UI loads without runtime exceptions",
+      "status": "PASS"
+    },
+    {
+      "name": "Signed-out users see login, not application actions",
+      "status": "PASS"
+    },
+    {
+      "name": "Minimise and reopen the login panel",
+      "status": "PASS"
+    },
+    {
+      "name": "Keyboard activates sign-in and opens the correct login URL",
+      "status": "PASS"
+    },
+    {
+      "name": "Signed-in fixture unlocks the main panel",
+      "status": "PASS"
+    },
+    {
+      "name": "Recent applications tab opens",
+      "status": "PASS"
+    },
+    {
+      "name": "Signed-in panel minimises and reopens",
+      "status": "PASS"
+    },
+    {
+      "name": "Save updates the button and sends one save request",
+      "status": "PASS"
+    },
+    {
+      "name": "History errors offer a working retry",
+      "status": "PASS"
+    },
+    {
+      "name": "Desktop panel remains within the viewport at 1024px",
+      "status": "PASS"
+    },
+    {
+      "name": "Session removal returns to login",
+      "status": "PASS"
+    },
+    {
+      "name": "No browser runtime errors across journeys",
+      "status": "PASS"
+    }
+  ],
+  "errors": []
+}

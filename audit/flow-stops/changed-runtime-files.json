@@ -1,0 +1,10 @@
+[
+  "src/content/App.jsx",
+  "src/utils/seekHelpers.js",
+  "src/utils/seekSubmission.js",
+  "src/utils/flowGuard.js",
+  "src/autofill/seek_simple.js",
+  "src/autofill/indeed.js",
+  "src/autofill/seek_autodill.js",
+  "src/autofill/linkedin.js"
+]

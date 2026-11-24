@@ -1,0 +1,3572 @@
+[
+  {
+    "file": "src/autofill/indeed-buttons.jsx",
+    "line": 53,
+    "method": "querySelectorAll",
+    "selector": null,
+    "dynamic": true
+  },
+  {
+    "file": "src/autofill/indeed-buttons.jsx",
+    "line": 283,
+    "method": "closest",
+    "selector": "[data-testid=\"jobsearch-ViewJobButtons-container\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/indeed-buttons.jsx",
+    "line": 284,
+    "method": "closest",
+    "selector": ".jobsearch-ViewJobButtons-container",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/indeed.js",
+    "line": 138,
+    "method": "querySelector",
+    "selector": "form",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/indeed.js",
+    "line": 428,
+    "method": "querySelector",
+    "selector": "[data-testid=\"jobsearch-JobInfoHeader-title\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/indeed.js",
+    "line": 429,
+    "method": "querySelector",
+    "selector": "h1",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/indeed.js",
+    "line": 432,
+    "method": "querySelector",
+    "selector": "[data-company-name] a, [data-company-name] div",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/indeed.js",
+    "line": 433,
+    "method": "querySelector",
+    "selector": "[data-testid=\"inlineHeader-companyName\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/indeed.js",
+    "line": 436,
+    "method": "querySelector",
+    "selector": "[data-testid=\"jobsearch-JobComponent-description\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/indeed.js",
+    "line": 437,
+    "method": "querySelector",
+    "selector": "#jobDescriptionText",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/indeed.js",
+    "line": 453,
+    "method": "querySelectorAll",
+    "selector": "input, select, textarea, [contenteditable=\"true\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/indeed.js",
+    "line": 456,
+    "method": "querySelectorAll",
+    "selector": "iframe",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/indeed.js",
+    "line": 464,
+    "method": "querySelectorAll",
+    "selector": "input, select, textarea, [contenteditable=\"true\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/indeed.js",
+    "line": 478,
+    "method": "querySelector",
+    "selector": "h1,h2",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/indeed.js",
+    "line": 493,
+    "method": "querySelectorAll",
+    "selector": "button,[role=\"button\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/indeed.js",
+    "line": 499,
+    "method": "querySelector",
+    "selector": "input[type=\"file\"][name*=\"resume\" i]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/indeed.js",
+    "line": 500,
+    "method": "querySelector",
+    "selector": "#resume",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/indeed.js",
+    "line": 501,
+    "method": "querySelector",
+    "selector": "[data-testid*=\"resume\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/indeed.js",
+    "line": 505,
+    "method": "querySelector",
+    "selector": "form",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/indeed.js",
+    "line": 506,
+    "method": "querySelectorAll",
+    "selector": "input,select,textarea,[contenteditable='true']",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/indeed.js",
+    "line": 515,
+    "method": "querySelector",
+    "selector": "#indeedApplyButton",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/indeed.js",
+    "line": 516,
+    "method": "querySelector",
+    "selector": "[data-tn-element=\"applyButton\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/indeed.js",
+    "line": 517,
+    "method": "querySelector",
+    "selector": "[data-qa=\"apply-button\"], [data-testid*=\"apply\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/indeed.js",
+    "line": 518,
+    "method": "querySelector",
+    "selector": "#jobDescriptionText, [data-testid='jobsearch-JobComponent-description']",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/indeed.js",
+    "line": 553,
+    "method": "querySelectorAll",
+    "selector": null,
+    "dynamic": true
+  },
+  {
+    "file": "src/autofill/indeed.js",
+    "line": 585,
+    "method": "querySelectorAll",
+    "selector": "input[type=\"file\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/indeed.js",
+    "line": 613,
+    "method": "closest",
+    "selector": "label",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/indeed.js",
+    "line": 618,
+    "method": "querySelector",
+    "selector": null,
+    "dynamic": true
+  },
+  {
+    "file": "src/autofill/indeed.js",
+    "line": 618,
+    "method": "querySelector",
+    "selector": null,
+    "dynamic": true
+  },
+  {
+    "file": "src/autofill/indeed.js",
+    "line": 628,
+    "method": "querySelector",
+    "selector": "[data-testid$=\"-label-asterisk\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/indeed.js",
+    "line": 637,
+    "method": "closest",
+    "selector": ".ia-Questions-item, [data-qa=\"question-group\"], [data-testid*=\"question\"], fieldset, .icl-Questions-item",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/indeed.js",
+    "line": 638,
+    "method": "closest",
+    "selector": "div",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/indeed.js",
+    "line": 642,
+    "method": "querySelector",
+    "selector": "[data-testid$=\"-label\"] [data-testid=\"rich-text\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/indeed.js",
+    "line": 643,
+    "method": "querySelector",
+    "selector": "[data-testid$=\"-label\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/indeed.js",
+    "line": 644,
+    "method": "querySelector",
+    "selector": "legend, h3, h4, p, span",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/indeed.js",
+    "line": 659,
+    "method": "closest",
+    "selector": "form",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/indeed.js",
+    "line": 661,
+    "method": "querySelectorAll",
+    "selector": null,
+    "dynamic": true
+  },
+  {
+    "file": "src/autofill/indeed.js",
+    "line": 664,
+    "method": "closest",
+    "selector": "label",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/indeed.js",
+    "line": 702,
+    "method": "closest",
+    "selector": "form",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/indeed.js",
+    "line": 703,
+    "method": "querySelectorAll",
+    "selector": null,
+    "dynamic": true
+  },
+  {
+    "file": "src/autofill/indeed.js",
+    "line": 870,
+    "method": "closest",
+    "selector": "[data-qa=\"question-group\"], fieldset, .ia-Questions-item, .icl-Questions-item",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/indeed.js",
+    "line": 874,
+    "method": "querySelector",
+    "selector": "legend,h3,h4,p,span",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/indeed.js",
+    "line": 878,
+    "method": "querySelectorAll",
+    "selector": null,
+    "dynamic": true
+  },
+  {
+    "file": "src/autofill/indeed.js",
+    "line": 878,
+    "method": "closest",
+    "selector": "form",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/indeed.js",
+    "line": 884,
+    "method": "closest",
+    "selector": "label",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/indeed.js",
+    "line": 950,
+    "method": "closest",
+    "selector": "form",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/indeed.js",
+    "line": 952,
+    "method": "querySelectorAll",
+    "selector": null,
+    "dynamic": true
+  },
+  {
+    "file": "src/autofill/indeed.js",
+    "line": 966,
+    "method": "closest",
+    "selector": "label",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/indeed.js",
+    "line": 976,
+    "method": "closest",
+    "selector": "label",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/indeed.js",
+    "line": 1013,
+    "method": "querySelector",
+    "selector": "form",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/indeed.js",
+    "line": 1014,
+    "method": "querySelectorAll",
+    "selector": "input, select, textarea, [contenteditable=\"true\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/indeed.js",
+    "line": 1015,
+    "method": "querySelectorAll",
+    "selector": "button,[role=\"button\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/indeed.js",
+    "line": 1026,
+    "method": "querySelector",
+    "selector": "form",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/indeed.js",
+    "line": 1034,
+    "method": "querySelectorAll",
+    "selector": "input, select, textarea, [contenteditable=\"true\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/indeed.js",
+    "line": 1066,
+    "method": "querySelector",
+    "selector": "input[name=\"jobTitle\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/indeed.js",
+    "line": 1067,
+    "method": "querySelector",
+    "selector": "input[name=\"companyName\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/indeed.js",
+    "line": 1237,
+    "method": "querySelector",
+    "selector": "[data-testid=\"jobsearch-JobComponent-description\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/indeed.js",
+    "line": 1238,
+    "method": "querySelector",
+    "selector": "#jobDescriptionText",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/indeed.js",
+    "line": 1282,
+    "method": "querySelectorAll",
+    "selector": null,
+    "dynamic": true
+  },
+  {
+    "file": "src/autofill/indeed.js",
+    "line": 1296,
+    "method": "querySelector",
+    "selector": "form",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/indeed.js",
+    "line": 1317,
+    "method": "querySelectorAll",
+    "selector": null,
+    "dynamic": true
+  },
+  {
+    "file": "src/autofill/indeed.js",
+    "line": 1329,
+    "method": "closest",
+    "selector": "label",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/indeed.js",
+    "line": 1345,
+    "method": "querySelector",
+    "selector": "form",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/indeed.js",
+    "line": 1346,
+    "method": "querySelectorAll",
+    "selector": "input, select, textarea, [contenteditable=\"true\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/indeed.js",
+    "line": 1347,
+    "method": "querySelectorAll",
+    "selector": "button,[role=\"button\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/indeed.js",
+    "line": 1362,
+    "method": "querySelector",
+    "selector": "form",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/indeed.js",
+    "line": 1364,
+    "method": "querySelectorAll",
+    "selector": "input, select, textarea, [contenteditable=\"true\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/indeed.js",
+    "line": 1366,
+    "method": "closest",
+    "selector": "#jobgen-react-app",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/indeed.js",
+    "line": 1417,
+    "method": "querySelectorAll",
+    "selector": "button,[role=\"button\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/indeed.js",
+    "line": 1618,
+    "method": "querySelector",
+    "selector": "#indeedApplyButton, [data-tn-element=\"applyButton\"], [data-qa=\"apply-button\"], [data-testid*=\"apply\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/indeed.js",
+    "line": 1781,
+    "method": "closest",
+    "selector": null,
+    "dynamic": true
+  },
+  {
+    "file": "src/autofill/indeed.js",
+    "line": 1808,
+    "method": "querySelector",
+    "selector": "form",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/indeed.js",
+    "line": 1810,
+    "method": "querySelectorAll",
+    "selector": "input, select, textarea, [contenteditable=\"true\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/linkedin.js",
+    "line": 143,
+    "method": "querySelector",
+    "selector": ".jobs-easy-apply-modal__content",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/linkedin.js",
+    "line": 262,
+    "method": "querySelector",
+    "selector": ".jobs-easy-apply-modal__content",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/linkedin.js",
+    "line": 368,
+    "method": "querySelectorAll",
+    "selector": "[data-test-single-line-text-form-component]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/linkedin.js",
+    "line": 369,
+    "method": "querySelectorAll",
+    "selector": "[data-test-multiline-text-form-component]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/linkedin.js",
+    "line": 370,
+    "method": "querySelectorAll",
+    "selector": "[data-test-text-entity-list-form-component]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/linkedin.js",
+    "line": 371,
+    "method": "querySelectorAll",
+    "selector": "[data-test-single-typeahead-entity-form-component]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/linkedin.js",
+    "line": 376,
+    "method": "querySelector",
+    "selector": "label",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/linkedin.js",
+    "line": 377,
+    "method": "querySelector",
+    "selector": "input",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/linkedin.js",
+    "line": 394,
+    "method": "querySelector",
+    "selector": "[data-test-text-entity-list-form-title] span",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/linkedin.js",
+    "line": 395,
+    "method": "querySelector",
+    "selector": "label span",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/linkedin.js",
+    "line": 396,
+    "method": "querySelector",
+    "selector": "label",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/linkedin.js",
+    "line": 397,
+    "method": "querySelector",
+    "selector": "select[data-test-text-entity-list-form-select]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/linkedin.js",
+    "line": 398,
+    "method": "querySelector",
+    "selector": "select",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/linkedin.js",
+    "line": 408,
+    "method": "querySelector",
+    "selector": "label",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/linkedin.js",
+    "line": 409,
+    "method": "querySelector",
+    "selector": "textarea",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/linkedin.js",
+    "line": 420,
+    "method": "querySelector",
+    "selector": "label",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/linkedin.js",
+    "line": 421,
+    "method": "querySelector",
+    "selector": "input[type=\"text\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/linkedin.js",
+    "line": 422,
+    "method": "querySelector",
+    "selector": "input[role=\"combobox\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/linkedin.js",
+    "line": 423,
+    "method": "querySelector",
+    "selector": "input",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/linkedin.js",
+    "line": 433,
+    "method": "querySelectorAll",
+    "selector": "fieldset[data-test-form-builder-radio-button-form-component]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/linkedin.js",
+    "line": 435,
+    "method": "querySelector",
+    "selector": "legend span[aria-hidden=\"true\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/linkedin.js",
+    "line": 443,
+    "method": "querySelectorAll",
+    "selector": "fieldset[data-test-checkbox-form-component]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/linkedin.js",
+    "line": 445,
+    "method": "querySelector",
+    "selector": "legend span[aria-hidden=\"true\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/linkedin.js",
+    "line": 453,
+    "method": "querySelectorAll",
+    "selector": "input[type=\"file\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/linkedin.js",
+    "line": 502,
+    "method": "querySelectorAll",
+    "selector": ".jobs-easy-apply-repeatable-groupings__groupings .artdeco-card",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/linkedin.js",
+    "line": 510,
+    "method": "querySelector",
+    "selector": "input[type=\"text\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/linkedin.js",
+    "line": 514,
+    "method": "querySelectorAll",
+    "selector": "input[type=\"text\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/linkedin.js",
+    "line": 519,
+    "method": "querySelector",
+    "selector": "input[type=\"checkbox\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/linkedin.js",
+    "line": 530,
+    "method": "querySelector",
+    "selector": "[data-test-single-typeahead-entity-form-component] input",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/linkedin.js",
+    "line": 536,
+    "method": "querySelector",
+    "selector": "textarea",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/linkedin.js",
+    "line": 543,
+    "method": "querySelector",
+    "selector": "[data-test-date-range-form-component]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/linkedin.js",
+    "line": 551,
+    "method": "querySelectorAll",
+    "selector": "select[data-test-month-select]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/linkedin.js",
+    "line": 552,
+    "method": "querySelectorAll",
+    "selector": "select[data-test-year-select]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/linkedin.js",
+    "line": 643,
+    "method": "querySelectorAll",
+    "selector": ".jobs-easy-apply-repeatable-groupings__groupings .artdeco-card",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/linkedin.js",
+    "line": 649,
+    "method": "querySelectorAll",
+    "selector": ".jobs-easy-apply-repeatable-groupings__groupings .artdeco-card",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/linkedin.js",
+    "line": 658,
+    "method": "querySelector",
+    "selector": "input[type=\"text\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/linkedin.js",
+    "line": 662,
+    "method": "querySelector",
+    "selector": "[data-test-single-typeahead-entity-form-component] input",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/linkedin.js",
+    "line": 668,
+    "method": "querySelectorAll",
+    "selector": "input[type=\"text\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/linkedin.js",
+    "line": 672,
+    "method": "querySelectorAll",
+    "selector": "input[type=\"text\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/linkedin.js",
+    "line": 677,
+    "method": "querySelector",
+    "selector": "input[type=\"checkbox\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/linkedin.js",
+    "line": 691,
+    "method": "querySelector",
+    "selector": "[data-test-date-range-form-component]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/linkedin.js",
+    "line": 699,
+    "method": "querySelectorAll",
+    "selector": "select[data-test-month-select]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/linkedin.js",
+    "line": 700,
+    "method": "querySelectorAll",
+    "selector": "select[data-test-year-select]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/linkedin.js",
+    "line": 785,
+    "method": "querySelector",
+    "selector": "input[type=\"file\"][accept*=\"pdf\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/linkedin.js",
+    "line": 819,
+    "method": "querySelector",
+    "selector": "h3.t-16 .t-bold",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/linkedin.js",
+    "line": 820,
+    "method": "querySelector",
+    "selector": "h3.t-16.t-bold",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/linkedin.js",
+    "line": 821,
+    "method": "querySelector",
+    "selector": "h3 .t-bold",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/linkedin.js",
+    "line": 822,
+    "method": "querySelector",
+    "selector": "h3.t-18",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/linkedin.js",
+    "line": 850,
+    "method": "querySelector",
+    "selector": "#jobs-apply-button-id",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/linkedin.js",
+    "line": 855,
+    "method": "querySelector",
+    "selector": "main#workspace [data-view-name=\"job-detail-page\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/linkedin.js",
+    "line": 857,
+    "method": "querySelector",
+    "selector": "button[data-view-name=\"job-apply-button\"], button.jobs-apply-button, a[data-view-name=\"job-apply-button\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/linkedin.js",
+    "line": 861,
+    "method": "querySelector",
+    "selector": "a[data-view-name=\"job-apply-button\"], button[data-view-name=\"job-apply-button\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/linkedin.js",
+    "line": 874,
+    "method": "querySelector",
+    "selector": ".jobs-easy-apply-modal[role=\"dialog\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/linkedin.js",
+    "line": 878,
+    "method": "querySelector",
+    "selector": "[data-test-modal][role=\"dialog\"].jobs-easy-apply-modal",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/linkedin.js",
+    "line": 883,
+    "method": "querySelector",
+    "selector": "#interop-outlet",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/linkedin.js",
+    "line": 885,
+    "method": "querySelector",
+    "selector": "[data-test-modal][role=\"dialog\"].jobs-easy-apply-modal",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/linkedin.js",
+    "line": 917,
+    "method": "closest",
+    "selector": ".artdeco-modal[role=\"dialog\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/linkedin.js",
+    "line": 917,
+    "method": "querySelector",
+    "selector": null,
+    "dynamic": true
+  },
+  {
+    "file": "src/autofill/linkedin.js",
+    "line": 918,
+    "method": "querySelector",
+    "selector": null,
+    "dynamic": true
+  },
+  {
+    "file": "src/autofill/linkedin.js",
+    "line": 922,
+    "method": "querySelector",
+    "selector": ".jpac-modal-header",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/linkedin.js",
+    "line": 922,
+    "method": "querySelector",
+    "selector": "#post-apply-modal",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/linkedin.js",
+    "line": 922,
+    "method": "querySelector",
+    "selector": "h2, h3",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/linkedin.js",
+    "line": 945,
+    "method": "querySelector",
+    "selector": "#interop-outlet",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/linkedin.js",
+    "line": 1030,
+    "method": "querySelectorAll",
+    "selector": ".artdeco-inline-feedback.artdeco-inline-feedback--error, .jobs-document-upload-redesign-card__error",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/linkedin.js",
+    "line": 1056,
+    "method": "querySelector",
+    "selector": "button[aria-label=\"Submit application\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/linkedin.js",
+    "line": 1060,
+    "method": "querySelector",
+    "selector": "button[aria-label=\"Review your application\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/linkedin.js",
+    "line": 1061,
+    "method": "querySelector",
+    "selector": "button[data-live-test-easy-apply-review-button]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/linkedin.js",
+    "line": 1066,
+    "method": "querySelector",
+    "selector": "button[data-easy-apply-next-button]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/linkedin.js",
+    "line": 1067,
+    "method": "querySelector",
+    "selector": "button[aria-label=\"Continue to next step\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/linkedin.js",
+    "line": 1072,
+    "method": "querySelector",
+    "selector": ".jpac-modal-header",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/linkedin.js",
+    "line": 1072,
+    "method": "querySelector",
+    "selector": "#post-apply-modal",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/linkedin.js",
+    "line": 1072,
+    "method": "querySelector",
+    "selector": "h2, h3",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/linkedin.js",
+    "line": 1074,
+    "method": "querySelector",
+    "selector": "button[data-test-modal-close-btn], button.artdeco-modal__dismiss, button[aria-label=\"Dismiss\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/linkedin.js",
+    "line": 1274,
+    "method": "querySelectorAll",
+    "selector": "option",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/linkedin.js",
+    "line": 1351,
+    "method": "closest",
+    "selector": ".search-basic-typeahead, .search-vertical-typeahead",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/linkedin.js",
+    "line": 1357,
+    "method": "querySelector",
+    "selector": ".basic-typeahead-dropdown",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/linkedin.js",
+    "line": 1358,
+    "method": "querySelector",
+    "selector": "[role=\"listbox\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/linkedin.js",
+    "line": 1364,
+    "method": "querySelector",
+    "selector": ".basic-typeahead-dropdown",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/linkedin.js",
+    "line": 1365,
+    "method": "querySelector",
+    "selector": ".search-typeahead-v2__hit-container",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/linkedin.js",
+    "line": 1366,
+    "method": "querySelector",
+    "selector": ".typeahead-results",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/linkedin.js",
+    "line": 1367,
+    "method": "querySelector",
+    "selector": "[role=\"listbox\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/linkedin.js",
+    "line": 1373,
+    "method": "querySelector",
+    "selector": "div[role=\"option\"]:first-child",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/linkedin.js",
+    "line": 1374,
+    "method": "querySelector",
+    "selector": "button:first-child",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/linkedin.js",
+    "line": 1375,
+    "method": "querySelector",
+    "selector": "li:first-child",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/linkedin.js",
+    "line": 1376,
+    "method": "querySelector",
+    "selector": "div:first-child[data-test-typeahead-result]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/linkedin.js",
+    "line": 1377,
+    "method": "querySelector",
+    "selector": "div:first-child",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/linkedin.js",
+    "line": 1404,
+    "method": "querySelectorAll",
+    "selector": "input[type=\"radio\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/linkedin.js",
+    "line": 1408,
+    "method": "querySelector",
+    "selector": null,
+    "dynamic": true
+  },
+  {
+    "file": "src/autofill/linkedin.js",
+    "line": 1435,
+    "method": "querySelector",
+    "selector": null,
+    "dynamic": true
+  },
+  {
+    "file": "src/autofill/linkedin.js",
+    "line": 1452,
+    "method": "querySelectorAll",
+    "selector": "input[type=\"checkbox\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/linkedin.js",
+    "line": 1456,
+    "method": "querySelector",
+    "selector": null,
+    "dynamic": true
+  },
+  {
+    "file": "src/autofill/linkedin.js",
+    "line": 1489,
+    "method": "querySelector",
+    "selector": null,
+    "dynamic": true
+  },
+  {
+    "file": "src/autofill/linkedin.js",
+    "line": 1502,
+    "method": "querySelectorAll",
+    "selector": "button",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/linkedin.js",
+    "line": 1517,
+    "method": "querySelectorAll",
+    "selector": "button",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/linkedin.js",
+    "line": 1534,
+    "method": "querySelector",
+    "selector": "button[aria-label=\"Remove the following\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/linkedin.js",
+    "line": 1535,
+    "method": "querySelectorAll",
+    "selector": "button",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/linkedin.js",
+    "line": 1546,
+    "method": "querySelector",
+    "selector": ".artdeco-modal--layer-confirmation[role=\"alertdialog\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/linkedin.js",
+    "line": 1557,
+    "method": "querySelector",
+    "selector": "button[data-test-dialog-primary-btn]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/linkedin.js",
+    "line": 1558,
+    "method": "querySelector",
+    "selector": ".artdeco-modal__confirm-dialog-btn.artdeco-button--primary",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/linkedin.js",
+    "line": 1586,
+    "method": "querySelectorAll",
+    "selector": "button[aria-label=\"Remove the following work experience\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/linkedin.js",
+    "line": 1589,
+    "method": "querySelectorAll",
+    "selector": ".jobs-easy-apply-repeatable-groupings__groupings .artdeco-card",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/linkedin.js",
+    "line": 1631,
+    "method": "querySelector",
+    "selector": "#interop-outlet",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/linkedin.js",
+    "line": 1644,
+    "method": "querySelectorAll",
+    "selector": null,
+    "dynamic": true
+  },
+  {
+    "file": "src/autofill/linkedin.js",
+    "line": 1647,
+    "method": "querySelector",
+    "selector": ".jpac-modal-header",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/linkedin.js",
+    "line": 1647,
+    "method": "querySelector",
+    "selector": "#post-apply-modal",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/linkedin.js",
+    "line": 1647,
+    "method": "querySelector",
+    "selector": "h2, h3",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/microsoft.js",
+    "line": 40,
+    "method": "querySelector",
+    "selector": null,
+    "dynamic": true
+  },
+  {
+    "file": "src/autofill/microsoft.js",
+    "line": 63,
+    "method": "querySelector",
+    "selector": "h1",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/microsoft.js",
+    "line": 157,
+    "method": "querySelectorAll",
+    "selector": "fieldset",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/microsoft.js",
+    "line": 161,
+    "method": "querySelector",
+    "selector": "label",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/microsoft.js",
+    "line": 162,
+    "method": "querySelector",
+    "selector": ".ms-Dropdown-caretDownWrapper",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/microsoft.js",
+    "line": 165,
+    "method": "closest",
+    "selector": "button",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/microsoft.js",
+    "line": 165,
+    "method": "querySelector",
+    "selector": "i[data-icon-name=\"Cancel\"], i[data-icon-name=\"Clear\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/microsoft.js",
+    "line": 180,
+    "method": "querySelectorAll",
+    "selector": "button[role=\"option\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/microsoft.js",
+    "line": 198,
+    "method": "querySelectorAll",
+    "selector": "button[role=\"option\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/microsoft.js",
+    "line": 220,
+    "method": "querySelectorAll",
+    "selector": ".iCIMS_TableRow",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/microsoft.js",
+    "line": 228,
+    "method": "querySelectorAll",
+    "selector": "input[type=\"text\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/microsoft.js",
+    "line": 234,
+    "method": "querySelectorAll",
+    "selector": "select",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/microsoft.js",
+    "line": 245,
+    "method": "querySelectorAll",
+    "selector": "input[type=\"checkbox\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/microsoft.js",
+    "line": 258,
+    "method": "querySelector",
+    "selector": "label",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/microsoft.js",
+    "line": 267,
+    "method": "querySelector",
+    "selector": "select",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/microsoft.js",
+    "line": 268,
+    "method": "querySelector",
+    "selector": "input[type=\"text\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/microsoft.js",
+    "line": 269,
+    "method": "querySelectorAll",
+    "selector": "input[type=\"checkbox\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/microsoft.js",
+    "line": 289,
+    "method": "querySelector",
+    "selector": null,
+    "dynamic": true
+  },
+  {
+    "file": "src/autofill/microsoft.js",
+    "line": 360,
+    "method": "querySelector",
+    "selector": "h1",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/microsoft.js",
+    "line": 365,
+    "method": "querySelector",
+    "selector": "[data-testid=\"job-description\"], [data-automation=\"jobDescription\"], .job-description",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/microsoft.js",
+    "line": 417,
+    "method": "querySelector",
+    "selector": "button[data-testid=\"edit-link-test-id\"][aria-label=\"name edit\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/microsoft.js",
+    "line": 432,
+    "method": "querySelector",
+    "selector": null,
+    "dynamic": true
+  },
+  {
+    "file": "src/autofill/microsoft.js",
+    "line": 442,
+    "method": "querySelector",
+    "selector": null,
+    "dynamic": true
+  },
+  {
+    "file": "src/autofill/microsoft.js",
+    "line": 467,
+    "method": "querySelector",
+    "selector": "#contactEditId",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/microsoft.js",
+    "line": 481,
+    "method": "querySelector",
+    "selector": null,
+    "dynamic": true
+  },
+  {
+    "file": "src/autofill/microsoft.js",
+    "line": 491,
+    "method": "querySelector",
+    "selector": null,
+    "dynamic": true
+  },
+  {
+    "file": "src/autofill/microsoft.js",
+    "line": 516,
+    "method": "querySelectorAll",
+    "selector": ".ms-Button-label",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/microsoft.js",
+    "line": 544,
+    "method": "querySelector",
+    "selector": null,
+    "dynamic": true
+  },
+  {
+    "file": "src/autofill/microsoft.js",
+    "line": 550,
+    "method": "closest",
+    "selector": ".ms-ComboBox",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/microsoft.js",
+    "line": 553,
+    "method": "closest",
+    "selector": "button",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/microsoft.js",
+    "line": 553,
+    "method": "querySelector",
+    "selector": "i[data-icon-name=\"Cancel\"], i[data-icon-name=\"Clear\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/microsoft.js",
+    "line": 561,
+    "method": "querySelector",
+    "selector": ".ms-ComboBox-CaretDown-button",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/microsoft.js",
+    "line": 571,
+    "method": "querySelector",
+    "selector": ".ms-ComboBox-optionsContainer[role=\"listbox\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/microsoft.js",
+    "line": 574,
+    "method": "querySelectorAll",
+    "selector": "button[role=\"option\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/microsoft.js",
+    "line": 575,
+    "method": "querySelector",
+    "selector": ".ms-ComboBox-optionText",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/microsoft.js",
+    "line": 596,
+    "method": "querySelectorAll",
+    "selector": "button[role=\"option\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/microsoft.js",
+    "line": 598,
+    "method": "querySelector",
+    "selector": ".ms-ComboBox-optionText",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/microsoft.js",
+    "line": 629,
+    "method": "querySelectorAll",
+    "selector": "button.ms-Link",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/microsoft.js",
+    "line": 642,
+    "method": "querySelector",
+    "selector": "input#uploadfiles[data-testid=\"inputFiles\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/microsoft.js",
+    "line": 679,
+    "method": "querySelectorAll",
+    "selector": "button[type=\"submit\"], button[class*=\"upload\"], button[class*=\"submit\"], button[data-testid*=\"upload\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/microsoft.js",
+    "line": 729,
+    "method": "querySelectorAll",
+    "selector": null,
+    "dynamic": true
+  },
+  {
+    "file": "src/autofill/microsoft.js",
+    "line": 778,
+    "method": "querySelectorAll",
+    "selector": null,
+    "dynamic": true
+  },
+  {
+    "file": "src/autofill/microsoft.js",
+    "line": 788,
+    "method": "querySelector",
+    "selector": "i[data-icon-name=\"Cancel\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/microsoft.js",
+    "line": 789,
+    "method": "querySelector",
+    "selector": "svg[data-icon-name*=\"Close\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/microsoft.js",
+    "line": 790,
+    "method": "querySelector",
+    "selector": "svg[data-icon-name*=\"Cancel\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/microsoft.js",
+    "line": 825,
+    "method": "querySelector",
+    "selector": "button[aria-label=\"experience edit\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/microsoft.js",
+    "line": 842,
+    "method": "querySelector",
+    "selector": null,
+    "dynamic": true
+  },
+  {
+    "file": "src/autofill/microsoft.js",
+    "line": 851,
+    "method": "querySelector",
+    "selector": null,
+    "dynamic": true
+  },
+  {
+    "file": "src/autofill/microsoft.js",
+    "line": 876,
+    "method": "querySelector",
+    "selector": "input#checkbox-1016",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/microsoft.js",
+    "line": 880,
+    "method": "closest",
+    "selector": "label",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/microsoft.js",
+    "line": 896,
+    "method": "querySelectorAll",
+    "selector": "button",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/microsoft.js",
+    "line": 914,
+    "method": "querySelectorAll",
+    "selector": "button i[data-icon-name=\"Delete\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/microsoft.js",
+    "line": 915,
+    "method": "closest",
+    "selector": "button",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/microsoft.js",
+    "line": 933,
+    "method": "querySelector",
+    "selector": "button[aria-label=\"Confirm\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/microsoft.js",
+    "line": 934,
+    "method": "querySelector",
+    "selector": "button.gcsGlobalProfileConfirmDialogButton-622",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/microsoft.js",
+    "line": 935,
+    "method": "querySelector",
+    "selector": "button.ms-Button--primary",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/microsoft.js",
+    "line": 936,
+    "method": "querySelectorAll",
+    "selector": "button",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/microsoft.js",
+    "line": 956,
+    "method": "querySelector",
+    "selector": "input#uploadfiles",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/microsoft.js",
+    "line": 957,
+    "method": "querySelector",
+    "selector": "input[type=\"file\"][data-testid=\"inputFiles\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/microsoft.js",
+    "line": 958,
+    "method": "querySelector",
+    "selector": "input[type=\"file\"].profileResumeUploadFileInputStyle-553",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/microsoft.js",
+    "line": 965,
+    "method": "querySelectorAll",
+    "selector": "button",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/microsoft.js",
+    "line": 971,
+    "method": "querySelector",
+    "selector": "input[type=\"file\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/microsoft.js",
+    "line": 1005,
+    "method": "querySelectorAll",
+    "selector": "button[type=\"submit\"], button[class*=\"upload\"], button[class*=\"submit\"], button[data-testid*=\"upload\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/microsoft.js",
+    "line": 1029,
+    "method": "querySelectorAll",
+    "selector": "label.ms-Checkbox-label",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/microsoft.js",
+    "line": 1034,
+    "method": "querySelector",
+    "selector": ".ms-Checkbox-checkbox",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/seek-buttons.jsx",
+    "line": 16,
+    "method": "querySelector",
+    "selector": "[data-automation=\"jobAdDetails\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/seek-buttons.jsx",
+    "line": 17,
+    "method": "querySelector",
+    "selector": "h2",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/seek-buttons.jsx",
+    "line": 18,
+    "method": "querySelector",
+    "selector": "[data-automation=\"job-detail-apply\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/seek-buttons.jsx",
+    "line": 26,
+    "method": "querySelector",
+    "selector": "[data-automation=\"job-detail-apply\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/seek-buttons.jsx",
+    "line": 44,
+    "method": "querySelector",
+    "selector": "button[data-testid=\"jdv-savedjob\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/seek_autodill.js",
+    "line": 40,
+    "method": "querySelector",
+    "selector": "[data-automation=\"job-detail-apply\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/seek_autodill.js",
+    "line": 41,
+    "method": "querySelector",
+    "selector": "[aria-current=\"step\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/seek_autodill.js",
+    "line": 73,
+    "method": "querySelectorAll",
+    "selector": "[aria-current=\"step\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/seek_autodill.js",
+    "line": 78,
+    "method": "querySelector",
+    "selector": "[data-automation=\"job-detail-apply\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/seek_autodill.js",
+    "line": 146,
+    "method": "querySelector",
+    "selector": "[data-automation=\"job-detail-apply\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/seek_autodill.js",
+    "line": 190,
+    "method": "querySelector",
+    "selector": "[aria-current=\"step\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/seek_autodill.js",
+    "line": 370,
+    "method": "querySelector",
+    "selector": "[aria-current=\"step\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/seek_autodill.js",
+    "line": 413,
+    "method": "querySelector",
+    "selector": "[aria-current=\"step\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/seek_autodill.js",
+    "line": 473,
+    "method": "querySelector",
+    "selector": "[aria-current=\"step\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/seek_simple.js",
+    "line": 23,
+    "method": "querySelector",
+    "selector": "[data-automation=\"job-detail-apply\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/seek_simple.js",
+    "line": 24,
+    "method": "querySelector",
+    "selector": "[aria-current=\"step\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/seek_simple.js",
+    "line": 55,
+    "method": "querySelector",
+    "selector": "#applicationSent",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/seek_simple.js",
+    "line": 56,
+    "method": "querySelector",
+    "selector": "h1",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/seek_simple.js",
+    "line": 62,
+    "method": "querySelector",
+    "selector": "[aria-current=\"step\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/seek_simple.js",
+    "line": 74,
+    "method": "querySelectorAll",
+    "selector": "[data-automation*=\"jobLink\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/seek_simple.js",
+    "line": 75,
+    "method": "querySelectorAll",
+    "selector": "a[href*=\"/job/\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/seek_simple.js",
+    "line": 416,
+    "method": "querySelector",
+    "selector": "[data-automation=\"job-detail-apply\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/seek_simple.js",
+    "line": 436,
+    "method": "querySelector",
+    "selector": "[data-automation=\"job-detail-apply\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/seek_simple.js",
+    "line": 525,
+    "method": "querySelector",
+    "selector": "[aria-current=\"step\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/seek_simple.js",
+    "line": 645,
+    "method": "querySelector",
+    "selector": "select[data-testid=\"select-input\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/seek_simple.js",
+    "line": 670,
+    "method": "querySelector",
+    "selector": "select[data-testid=\"select-input\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/seek_simple.js",
+    "line": 763,
+    "method": "querySelector",
+    "selector": "[aria-current=\"step\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/seek_simple.js",
+    "line": 816,
+    "method": "querySelector",
+    "selector": "[aria-current=\"step\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/seek_simple.js",
+    "line": 878,
+    "method": "querySelector",
+    "selector": "[aria-current=\"step\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/seek_simple.js",
+    "line": 886,
+    "method": "querySelector",
+    "selector": "button[data-testid=\"review-submit-application\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/standardForm.js",
+    "line": 8,
+    "method": "querySelector",
+    "selector": "legend",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/standardForm.js",
+    "line": 8,
+    "method": "closest",
+    "selector": "fieldset",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/standardForm.js",
+    "line": 13,
+    "method": "closest",
+    "selector": "[hidden], [aria-hidden=\"true\"], #jobgen-react-app",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/standardForm.js",
+    "line": 26,
+    "method": "querySelectorAll",
+    "selector": "input, textarea, select",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/standardForm.js",
+    "line": 31,
+    "method": "querySelector",
+    "selector": "legend",
+    "dynamic": false
+  },
+  {
+    "file": "src/autofill/standardForm.js",
+    "line": 31,
+    "method": "closest",
+    "selector": "fieldset",
+    "dynamic": false
+  },
+  {
+    "file": "src/components/DisplayAboveTabs.jsx",
+    "line": 191,
+    "method": "closest",
+    "selector": "[data-dropdown]",
+    "dynamic": false
+  },
+  {
+    "file": "src/components/JobContainer.jsx",
+    "line": 302,
+    "method": "closest",
+    "selector": "[data-profile-dropdown]",
+    "dynamic": false
+  },
+  {
+    "file": "src/components/JobContainer.jsx",
+    "line": 509,
+    "method": "querySelectorAll",
+    "selector": "li",
+    "dynamic": false
+  },
+  {
+    "file": "src/components/JobContainer.jsx",
+    "line": 511,
+    "method": "querySelectorAll",
+    "selector": "li",
+    "dynamic": false
+  },
+  {
+    "file": "src/components/JobContainer.jsx",
+    "line": 513,
+    "method": "querySelectorAll",
+    "selector": "li",
+    "dynamic": false
+  },
+  {
+    "file": "src/components/JobContainer.jsx",
+    "line": 1054,
+    "method": "querySelector",
+    "selector": "[data-automation=\"job-detail-apply\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/components/JobContainer.jsx",
+    "line": 1089,
+    "method": "querySelectorAll",
+    "selector": null,
+    "dynamic": true
+  },
+  {
+    "file": "src/components/JobContainer.jsx",
+    "line": 1195,
+    "method": "querySelector",
+    "selector": null,
+    "dynamic": true
+  },
+  {
+    "file": "src/components/LinkedInTab.jsx",
+    "line": 47,
+    "method": "querySelectorAll",
+    "selector": "span.t-18.t-black.t-bold",
+    "dynamic": false
+  },
+  {
+    "file": "src/components/LinkedInTab.jsx",
+    "line": 51,
+    "method": "closest",
+    "selector": "div.relative.display-flex.flex-column",
+    "dynamic": false
+  },
+  {
+    "file": "src/components/LinkedInTab.jsx",
+    "line": 52,
+    "method": "querySelector",
+    "selector": "p.break-words",
+    "dynamic": false
+  },
+  {
+    "file": "src/components/LinkedInTab.jsx",
+    "line": 325,
+    "method": "querySelector",
+    "selector": null,
+    "dynamic": true
+  },
+  {
+    "file": "src/components/LinkedInTab.jsx",
+    "line": 338,
+    "method": "querySelector",
+    "selector": null,
+    "dynamic": true
+  },
+  {
+    "file": "src/components/LinkedInTab.jsx",
+    "line": 345,
+    "method": "querySelector",
+    "selector": "#navigation-index-see-all-recommendations",
+    "dynamic": false
+  },
+  {
+    "file": "src/components/ProfileView.jsx",
+    "line": 96,
+    "method": "closest",
+    "selector": "[data-dropdown]",
+    "dynamic": false
+  },
+  {
+    "file": "src/components/SeekFloatingStatus.jsx",
+    "line": 37,
+    "method": "querySelector",
+    "selector": "h1[data-automation=\"job-detail-title\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/components/SeekFloatingStatus.jsx",
+    "line": 38,
+    "method": "querySelector",
+    "selector": "article[data-job-id]",
+    "dynamic": false
+  },
+  {
+    "file": "src/components/SeekFloatingStatus.jsx",
+    "line": 39,
+    "method": "querySelector",
+    "selector": "[data-automation=\"jobTitle\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/components/SeekStatusPopup.jsx",
+    "line": 70,
+    "method": "closest",
+    "selector": ".drag-handle",
+    "dynamic": false
+  },
+  {
+    "file": "src/components/SuccessPopup.js",
+    "line": 143,
+    "method": "querySelector",
+    "selector": "#jobgen-success-close",
+    "dynamic": false
+  },
+  {
+    "file": "src/components/SuccessPopup.js",
+    "line": 183,
+    "method": "querySelectorAll",
+    "selector": null,
+    "dynamic": true
+  },
+  {
+    "file": "src/content/App.jsx",
+    "line": 314,
+    "method": "querySelector",
+    "selector": null,
+    "dynamic": true
+  },
+  {
+    "file": "src/content/App.jsx",
+    "line": 315,
+    "method": "querySelector",
+    "selector": ".job-details-jobs-unified-top-card__job-title h1, .jobs-unified-top-card__job-title h1, h1.t-24",
+    "dynamic": false
+  },
+  {
+    "file": "src/content/App.jsx",
+    "line": 357,
+    "method": "querySelector",
+    "selector": "div[role=\"main\"][data-sdui-screen*=\"flagshipnav.jobs\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/content/App.jsx",
+    "line": 358,
+    "method": "querySelector",
+    "selector": "[data-sdui-screen*=\"flagshipnav.jobs\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/content/App.jsx",
+    "line": 814,
+    "method": "querySelector",
+    "selector": "[data-testid=\"jobsearch-JobComponent-description\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/content/App.jsx",
+    "line": 817,
+    "method": "querySelector",
+    "selector": "#jobDescriptionText",
+    "dynamic": false
+  },
+  {
+    "file": "src/content/App.jsx",
+    "line": 955,
+    "method": "querySelector",
+    "selector": "h1[id^=\"jd-job-title-\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/content/App.jsx",
+    "line": 956,
+    "method": "querySelector",
+    "selector": "h1[class*=\"heading_Level1\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/content/App.jsx",
+    "line": 961,
+    "method": "querySelector",
+    "selector": "h4[class*=\"heading_Subhead\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/content/App.jsx",
+    "line": 962,
+    "method": "querySelector",
+    "selector": "[data-test=\"employerName\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/content/App.jsx",
+    "line": 967,
+    "method": "querySelector",
+    "selector": "[data-test=\"location\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/content/App.jsx",
+    "line": 968,
+    "method": "querySelector",
+    "selector": "[data-test=\"jobLocation\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/content/App.jsx",
+    "line": 972,
+    "method": "querySelector",
+    "selector": "[data-test=\"detailSalary\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/content/App.jsx",
+    "line": 976,
+    "method": "querySelector",
+    "selector": "img[class*=\"avatar-base_Image\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/content/App.jsx",
+    "line": 982,
+    "method": "querySelector",
+    "selector": "div[class*=\"JobDetails_jobDescription\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/content/App.jsx",
+    "line": 1130,
+    "method": "querySelector",
+    "selector": "div[class*=\"JobDetails_jobDetailsContainer\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/content/App.jsx",
+    "line": 1131,
+    "method": "querySelector",
+    "selector": "[data-test=\"job-details-root\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/content/App.jsx",
+    "line": 1132,
+    "method": "querySelector",
+    "selector": "[data-test=\"TwoColumnLayout\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/content/App.jsx",
+    "line": 1177,
+    "method": "querySelector",
+    "selector": "h1[data-automation=\"job-detail-title\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/content/App.jsx",
+    "line": 1178,
+    "method": "querySelector",
+    "selector": "article[data-job-id]",
+    "dynamic": false
+  },
+  {
+    "file": "src/content/App.jsx",
+    "line": 1179,
+    "method": "querySelector",
+    "selector": "[data-automation=\"jobTitle\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/content/App.jsx",
+    "line": 1590,
+    "method": "querySelector",
+    "selector": "[data-automation=\"job-detail-apply\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/content/App.jsx",
+    "line": 1591,
+    "method": "querySelector",
+    "selector": "[aria-current=\"step\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/content/App.jsx",
+    "line": 1672,
+    "method": "querySelector",
+    "selector": "[aria-current=\"step\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/content/App.jsx",
+    "line": 1747,
+    "method": "querySelector",
+    "selector": "button[data-testid=\"review-submit-application\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/content/App.jsx",
+    "line": 1872,
+    "method": "querySelector",
+    "selector": "h1[data-automation=\"job-detail-title\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/content/App.jsx",
+    "line": 1875,
+    "method": "querySelector",
+    "selector": "span[data-automation=\"advertiser-name\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/content/App.jsx",
+    "line": 1877,
+    "method": "querySelector",
+    "selector": "span[data-automation=\"jobCompany\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/content/App.jsx",
+    "line": 1880,
+    "method": "querySelector",
+    "selector": "a[data-automation=\"jobCompany\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/content/App.jsx",
+    "line": 1931,
+    "method": "closest",
+    "selector": "#jobgen-react-app",
+    "dynamic": false
+  },
+  {
+    "file": "src/content/App.jsx",
+    "line": 1947,
+    "method": "matches",
+    "selector": null,
+    "dynamic": true
+  },
+  {
+    "file": "src/content/App.jsx",
+    "line": 1948,
+    "method": "querySelector",
+    "selector": null,
+    "dynamic": true
+  },
+  {
+    "file": "src/content/App.jsx",
+    "line": 1956,
+    "method": "matches",
+    "selector": null,
+    "dynamic": true
+  },
+  {
+    "file": "src/content/App.jsx",
+    "line": 1956,
+    "method": "querySelector",
+    "selector": null,
+    "dynamic": true
+  },
+  {
+    "file": "src/content/App.jsx",
+    "line": 1962,
+    "method": "closest",
+    "selector": null,
+    "dynamic": true
+  },
+  {
+    "file": "src/content/App.jsx",
+    "line": 1975,
+    "method": "querySelector",
+    "selector": "main",
+    "dynamic": false
+  },
+  {
+    "file": "src/content/App.jsx",
+    "line": 2105,
+    "method": "querySelector",
+    "selector": "[aria-current=\"step\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/content/App.jsx",
+    "line": 2106,
+    "method": "querySelector",
+    "selector": "[data-automation=\"job-detail-apply\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/content/content.jsx",
+    "line": 79,
+    "method": "closest",
+    "selector": "[data-automation=\"job-detail-apply\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/content/content.jsx",
+    "line": 117,
+    "method": "querySelectorAll",
+    "selector": "input, select, textarea",
+    "dynamic": false
+  },
+  {
+    "file": "src/content/content.jsx",
+    "line": 251,
+    "method": "querySelectorAll",
+    "selector": "input, select, textarea",
+    "dynamic": false
+  },
+  {
+    "file": "src/content/content.jsx",
+    "line": 259,
+    "method": "querySelector",
+    "selector": "#applicationSent",
+    "dynamic": false
+  },
+  {
+    "file": "src/content/content.jsx",
+    "line": 261,
+    "method": "querySelector",
+    "selector": "h1#applicationSent",
+    "dynamic": false
+  },
+  {
+    "file": "src/content/content.jsx",
+    "line": 329,
+    "method": "querySelector",
+    "selector": "#applicationSent",
+    "dynamic": false
+  },
+  {
+    "file": "src/content/content.jsx",
+    "line": 330,
+    "method": "querySelector",
+    "selector": "h1#applicationSent",
+    "dynamic": false
+  },
+  {
+    "file": "src/content/content.jsx",
+    "line": 331,
+    "method": "querySelectorAll",
+    "selector": "span",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/flowGuard.js",
+    "line": 38,
+    "method": "closest",
+    "selector": "#jobgen-react-app, #autofillProgressSection, .jobgen-root",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/flowGuard.js",
+    "line": 54,
+    "method": "matches",
+    "selector": null,
+    "dynamic": true
+  },
+  {
+    "file": "src/utils/flowGuard.js",
+    "line": 54,
+    "method": "querySelectorAll",
+    "selector": null,
+    "dynamic": true
+  },
+  {
+    "file": "src/utils/flowGuard.js",
+    "line": 57,
+    "method": "querySelectorAll",
+    "selector": "input, select, textarea",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/flowGuard.js",
+    "line": 67,
+    "method": "matches",
+    "selector": ":disabled",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/flowGuard.js",
+    "line": 88,
+    "method": "querySelectorAll",
+    "selector": "input, select, textarea, fieldset",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/flowGuard.js",
+    "line": 94,
+    "method": "querySelectorAll",
+    "selector": "input, select, textarea, fieldset",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/helpers.js",
+    "line": 7,
+    "method": "querySelector",
+    "selector": null,
+    "dynamic": true
+  },
+  {
+    "file": "src/utils/helpers.js",
+    "line": 24,
+    "method": "querySelectorAll",
+    "selector": null,
+    "dynamic": true
+  },
+  {
+    "file": "src/utils/helpers.js",
+    "line": 42,
+    "method": "querySelector",
+    "selector": "#profile-content > div > div.scaffold-layout.scaffold-layout--breakpoint-md.scaffold-layout--main-aside.scaffold-layout--reflow.pv-profile.pvs-loader-wrapper__shimmer--animate > div > div > main > section:nth-child(3) > div.display-flex.ph5.pv3 > div > div > div > span.visually-hidden",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/helpers.js",
+    "line": 84,
+    "method": "querySelector",
+    "selector": "article.jobs-description__container",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/helpers.js",
+    "line": 99,
+    "method": "querySelector",
+    "selector": "article.jobs-description__container",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/linkedinHelpers.js",
+    "line": 145,
+    "method": "querySelector",
+    "selector": null,
+    "dynamic": true
+  },
+  {
+    "file": "src/utils/linkedinHelpers.js",
+    "line": 212,
+    "method": "closest",
+    "selector": null,
+    "dynamic": true
+  },
+  {
+    "file": "src/utils/linkedinHelpers.js",
+    "line": 226,
+    "method": "querySelectorAll",
+    "selector": "a, button",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/linkedinHelpers.js",
+    "line": 316,
+    "method": "querySelector",
+    "selector": "#jobgen-react-app",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/linkedinHelpers.js",
+    "line": 354,
+    "method": "querySelectorAll",
+    "selector": null,
+    "dynamic": true
+  },
+  {
+    "file": "src/utils/linkedinHelpers.js",
+    "line": 411,
+    "method": "matches",
+    "selector": "[data-view-name=\"job-detail-page\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/linkedinHelpers.js",
+    "line": 412,
+    "method": "matches",
+    "selector": "[class*=\"jobs-semantic-search-job-details-wrapper\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/linkedinHelpers.js",
+    "line": 498,
+    "method": "querySelectorAll",
+    "selector": null,
+    "dynamic": true
+  },
+  {
+    "file": "src/utils/linkedinHelpers.js",
+    "line": 676,
+    "method": "querySelector",
+    "selector": ".jobs-easy-apply-modal__content",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/linkedinHelpers.js",
+    "line": 800,
+    "method": "querySelector",
+    "selector": ".jobs-easy-apply-modal__content",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/linkedinHelpers.js",
+    "line": 803,
+    "method": "querySelector",
+    "selector": null,
+    "dynamic": true
+  },
+  {
+    "file": "src/utils/linkedinHelpers.js",
+    "line": 822,
+    "method": "querySelector",
+    "selector": "#interop-outlet",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/linkedinHelpers.js",
+    "line": 997,
+    "method": "querySelector",
+    "selector": "#interop-outlet",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/linkedinHelpers.js",
+    "line": 1010,
+    "method": "querySelectorAll",
+    "selector": null,
+    "dynamic": true
+  },
+  {
+    "file": "src/utils/linkedinHelpers.js",
+    "line": 1012,
+    "method": "querySelector",
+    "selector": ".jpac-modal-header",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/linkedinHelpers.js",
+    "line": 1013,
+    "method": "querySelector",
+    "selector": "#post-apply-modal",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/linkedinHelpers.js",
+    "line": 1014,
+    "method": "querySelector",
+    "selector": "h2, h3",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/linkedinHelpers.js",
+    "line": 1074,
+    "method": "querySelector",
+    "selector": "#interop-outlet",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/resumeManager.js",
+    "line": 170,
+    "method": "querySelector",
+    "selector": "input[data-testid=\"resume-method-change\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/resumeManager.js",
+    "line": 178,
+    "method": "querySelector",
+    "selector": "select[data-testid=\"select-input\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/resumeManager.js",
+    "line": 253,
+    "method": "querySelector",
+    "selector": "input[data-testid=\"resume-method-change\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/resumeManager.js",
+    "line": 261,
+    "method": "querySelector",
+    "selector": "select[data-testid=\"select-input\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/seekHelpers.js",
+    "line": 22,
+    "method": "querySelector",
+    "selector": null,
+    "dynamic": true
+  },
+  {
+    "file": "src/utils/seekHelpers.js",
+    "line": 37,
+    "method": "querySelectorAll",
+    "selector": "[data-automation*=\"job\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/seekHelpers.js",
+    "line": 62,
+    "method": "querySelectorAll",
+    "selector": "a[href*=\"/job/\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/seekHelpers.js",
+    "line": 96,
+    "method": "closest",
+    "selector": "[aria-label]",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/seekHelpers.js",
+    "line": 98,
+    "method": "querySelector",
+    "selector": "a[href*=\"/job/\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/seekHelpers.js",
+    "line": 116,
+    "method": "querySelectorAll",
+    "selector": "[data-automation*=\"job\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/seekHelpers.js",
+    "line": 160,
+    "method": "querySelector",
+    "selector": "[data-automation=\"job-detail-apply\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/seekHelpers.js",
+    "line": 174,
+    "method": "querySelectorAll",
+    "selector": "[data-testid*=\"resume-item\"], .resume-item, [data-automation*=\"resume\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/seekHelpers.js",
+    "line": 175,
+    "method": "querySelectorAll",
+    "selector": "select option[value]:not([value=\"\"]):not([disabled])",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/seekHelpers.js",
+    "line": 183,
+    "method": "querySelectorAll",
+    "selector": "[data-testid*=\"resume\"], [class*=\"resume\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/seekHelpers.js",
+    "line": 199,
+    "method": "querySelector",
+    "selector": "input[data-testid=\"resume-method-upload\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/seekHelpers.js",
+    "line": 236,
+    "method": "querySelector",
+    "selector": "input#resume-fileFile[data-testid=\"file-input\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/seekHelpers.js",
+    "line": 312,
+    "method": "querySelector",
+    "selector": "button[data-testid=\"upload-button\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/seekHelpers.js",
+    "line": 319,
+    "method": "querySelector",
+    "selector": "[data-testid=\"10-resume-limit-text\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/seekHelpers.js",
+    "line": 344,
+    "method": "querySelector",
+    "selector": "select#docLimitExceededDropdown",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/seekHelpers.js",
+    "line": 369,
+    "method": "querySelector",
+    "selector": "button[data-automation=\"10-resume-delete\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/seekHelpers.js",
+    "line": 388,
+    "method": "querySelector",
+    "selector": "input[data-testid=\"coverLetter-method-upload\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/seekHelpers.js",
+    "line": 395,
+    "method": "querySelector",
+    "selector": "input#coverLetter-fileFile[data-testid=\"file-input\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/seekHelpers.js",
+    "line": 466,
+    "method": "querySelectorAll",
+    "selector": "button",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/seekHelpers.js",
+    "line": 486,
+    "method": "querySelectorAll",
+    "selector": "[role=\"dialog\"], [role=\"alertdialog\"], [aria-modal=\"true\"], [data-testid*=\"modal\"], [data-automation*=\"modal\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/seekHelpers.js",
+    "line": 492,
+    "method": "querySelector",
+    "selector": "button[data-automation^=\"confirm-delete\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/seekHelpers.js",
+    "line": 493,
+    "method": "querySelectorAll",
+    "selector": "button",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/seekHelpers.js",
+    "line": 511,
+    "method": "querySelectorAll",
+    "selector": "button[data-automation^=\"edit-role-\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/seekHelpers.js",
+    "line": 527,
+    "method": "querySelectorAll",
+    "selector": "button",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/seekHelpers.js",
+    "line": 554,
+    "method": "querySelectorAll",
+    "selector": "button",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/seekHelpers.js",
+    "line": 586,
+    "method": "querySelector",
+    "selector": "button[data-testid=\"continue-button\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/seekHelpers.js",
+    "line": 590,
+    "method": "querySelectorAll",
+    "selector": "button",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/seekHelpers.js",
+    "line": 599,
+    "method": "querySelector",
+    "selector": "[data-automation*=\"continue\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/seekHelpers.js",
+    "line": 600,
+    "method": "querySelector",
+    "selector": "[data-automation*=\"next\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/seekHelpers.js",
+    "line": 605,
+    "method": "querySelector",
+    "selector": "main",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/seekHelpers.js",
+    "line": 624,
+    "method": "querySelectorAll",
+    "selector": "input[type=\"checkbox\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/seekHelpers.js",
+    "line": 638,
+    "method": "querySelector",
+    "selector": "label strong",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/seekHelpers.js",
+    "line": 639,
+    "method": "querySelector",
+    "selector": "strong",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/seekHelpers.js",
+    "line": 640,
+    "method": "querySelector",
+    "selector": "legend strong",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/seekHelpers.js",
+    "line": 641,
+    "method": "querySelector",
+    "selector": "legend",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/seekHelpers.js",
+    "line": 643,
+    "method": "querySelector",
+    "selector": "select",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/seekHelpers.js",
+    "line": 644,
+    "method": "querySelector",
+    "selector": "textarea",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/seekHelpers.js",
+    "line": 645,
+    "method": "querySelectorAll",
+    "selector": "input[type=\"checkbox\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/seekHelpers.js",
+    "line": 646,
+    "method": "querySelectorAll",
+    "selector": "input[type=\"radio\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/seekHelpers.js",
+    "line": 665,
+    "method": "querySelectorAll",
+    "selector": "option",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/seekHelpers.js",
+    "line": 689,
+    "method": "querySelector",
+    "selector": null,
+    "dynamic": true
+  },
+  {
+    "file": "src/utils/seekHelpers.js",
+    "line": 691,
+    "method": "querySelector",
+    "selector": "span",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/seekHelpers.js",
+    "line": 717,
+    "method": "querySelector",
+    "selector": null,
+    "dynamic": true
+  },
+  {
+    "file": "src/utils/seekHelpers.js",
+    "line": 719,
+    "method": "querySelector",
+    "selector": "span",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/seekHelpers.js",
+    "line": 735,
+    "method": "querySelector",
+    "selector": null,
+    "dynamic": true
+  },
+  {
+    "file": "src/utils/seekSubmission.js",
+    "line": 3,
+    "method": "querySelector",
+    "selector": "#applicationSent",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/seekSubmission.js",
+    "line": 4,
+    "method": "querySelector",
+    "selector": "h1",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/siteExtractors.js",
+    "line": 24,
+    "method": "querySelector",
+    "selector": null,
+    "dynamic": true
+  },
+  {
+    "file": "src/utils/siteExtractors.js",
+    "line": 34,
+    "method": "querySelector",
+    "selector": null,
+    "dynamic": true
+  },
+  {
+    "file": "src/utils/siteExtractors.js",
+    "line": 95,
+    "method": "querySelector",
+    "selector": null,
+    "dynamic": true
+  },
+  {
+    "file": "src/utils/siteExtractors.js",
+    "line": 190,
+    "method": "querySelectorAll",
+    "selector": null,
+    "dynamic": true
+  },
+  {
+    "file": "src/utils/siteExtractors.js",
+    "line": 265,
+    "method": "querySelector",
+    "selector": null,
+    "dynamic": true
+  },
+  {
+    "file": "src/utils/siteExtractors.js",
+    "line": 276,
+    "method": "querySelectorAll",
+    "selector": ".visually-hidden",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/siteExtractors.js",
+    "line": 297,
+    "method": "querySelectorAll",
+    "selector": "section",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/siteExtractors.js",
+    "line": 298,
+    "method": "querySelector",
+    "selector": "h2",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/siteExtractors.js",
+    "line": 301,
+    "method": "querySelectorAll",
+    "selector": "li.artdeco-list__item",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/siteExtractors.js",
+    "line": 302,
+    "method": "querySelectorAll",
+    "selector": "li",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/siteExtractors.js",
+    "line": 344,
+    "method": "querySelector",
+    "selector": null,
+    "dynamic": true
+  },
+  {
+    "file": "src/utils/siteExtractors.js",
+    "line": 345,
+    "method": "querySelectorAll",
+    "selector": null,
+    "dynamic": true
+  },
+  {
+    "file": "src/utils/siteExtractors.js",
+    "line": 360,
+    "method": "waitForElement",
+    "selector": null,
+    "dynamic": true
+  },
+  {
+    "file": "src/utils/siteExtractors.js",
+    "line": 399,
+    "method": "querySelector",
+    "selector": ".inline-show-more-text",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/siteExtractors.js",
+    "line": 400,
+    "method": "querySelector",
+    "selector": ".hoverable-link-text",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/siteExtractors.js",
+    "line": 401,
+    "method": "querySelector",
+    "selector": "span",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/siteExtractors.js",
+    "line": 402,
+    "method": "querySelector",
+    "selector": "div",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/siteExtractors.js",
+    "line": 422,
+    "method": "closest",
+    "selector": "span",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/siteExtractors.js",
+    "line": 506,
+    "method": "waitForElement",
+    "selector": null,
+    "dynamic": true
+  },
+  {
+    "file": "src/utils/siteExtractors.js",
+    "line": 509,
+    "method": "querySelector",
+    "selector": null,
+    "dynamic": true
+  },
+  {
+    "file": "src/utils/siteExtractors.js",
+    "line": 521,
+    "method": "querySelector",
+    "selector": "h1",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/siteExtractors.js",
+    "line": 521,
+    "method": "querySelector",
+    "selector": null,
+    "dynamic": true
+  },
+  {
+    "file": "src/utils/siteExtractors.js",
+    "line": 526,
+    "method": "querySelector",
+    "selector": null,
+    "dynamic": true
+  },
+  {
+    "file": "src/utils/siteExtractors.js",
+    "line": 531,
+    "method": "querySelector",
+    "selector": null,
+    "dynamic": true
+  },
+  {
+    "file": "src/utils/siteExtractors.js",
+    "line": 531,
+    "method": "querySelector",
+    "selector": ".display-flex.align-items-center.flex-1 a[aria-label$=\"logo\"] img",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/siteExtractors.js",
+    "line": 536,
+    "method": "querySelector",
+    "selector": null,
+    "dynamic": true
+  },
+  {
+    "file": "src/utils/siteExtractors.js",
+    "line": 541,
+    "method": "waitForElement",
+    "selector": null,
+    "dynamic": true
+  },
+  {
+    "file": "src/utils/siteExtractors.js",
+    "line": 572,
+    "method": "waitForElement",
+    "selector": "[data-view-name=\"job-detail-page\"], .job-view-layout.jobs-details, script[type=\"application/ld+json\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/siteExtractors.js",
+    "line": 594,
+    "method": "querySelector",
+    "selector": "[data-view-name=\"job-detail-page\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/siteExtractors.js",
+    "line": 596,
+    "method": "querySelector",
+    "selector": "a[href*=\"linkedin.com/company\"], a[href*=\"linkedin.com/showcase\"], a[href*=\"linkedin.com/school\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/siteExtractors.js",
+    "line": 602,
+    "method": "querySelector",
+    "selector": "img",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/siteExtractors.js",
+    "line": 602,
+    "method": "querySelector",
+    "selector": "figure img",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/siteExtractors.js",
+    "line": 621,
+    "method": "querySelector",
+    "selector": ".job-view-layout.jobs-details",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/siteExtractors.js",
+    "line": 624,
+    "method": "querySelector",
+    "selector": ".job-details-jobs-unified-top-card__company-name a",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/siteExtractors.js",
+    "line": 631,
+    "method": "querySelector",
+    "selector": ".ml2.t-14.truncate > div[dir=\"ltr\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/siteExtractors.js",
+    "line": 640,
+    "method": "querySelector",
+    "selector": "a[aria-label$=\"logo\"] img",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/siteExtractors.js",
+    "line": 641,
+    "method": "querySelector",
+    "selector": "figure img, .ivm-view-attr__img-wrapper img",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/siteExtractors.js",
+    "line": 642,
+    "method": "querySelector",
+    "selector": "[data-view-name=\"job-details-about-company-logo-link\"] img",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/siteExtractors.js",
+    "line": 650,
+    "method": "querySelector",
+    "selector": ".job-details-jobs-unified-top-card__job-title h1, h1.t-24",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/siteExtractors.js",
+    "line": 660,
+    "method": "querySelector",
+    "selector": ".job-details-jobs-unified-top-card__tertiary-description-container .tvm__text",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/siteExtractors.js",
+    "line": 697,
+    "method": "querySelectorAll",
+    "selector": "script[type=\"application/ld+json\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/siteExtractors.js",
+    "line": 753,
+    "method": "querySelectorAll",
+    "selector": "p",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/siteExtractors.js",
+    "line": 776,
+    "method": "querySelectorAll",
+    "selector": "p",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/siteExtractors.js",
+    "line": 793,
+    "method": "querySelector",
+    "selector": "article.jobs-description__container",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/siteExtractors.js",
+    "line": 793,
+    "method": "querySelector",
+    "selector": ".job-details-about-the-job-module__description",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/siteExtractors.js",
+    "line": 798,
+    "method": "querySelector",
+    "selector": "[data-view-name=\"job-detail-page\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/siteExtractors.js",
+    "line": 800,
+    "method": "querySelectorAll",
+    "selector": "h2, h3",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/siteExtractors.js",
+    "line": 802,
+    "method": "querySelector",
+    "selector": "[data-testid=\"expandable-text-box\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/siteExtractors.js",
+    "line": 807,
+    "method": "closest",
+    "selector": "div",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/siteExtractors.js",
+    "line": 865,
+    "method": "querySelector",
+    "selector": null,
+    "dynamic": true
+  },
+  {
+    "file": "src/utils/siteExtractors.js",
+    "line": 901,
+    "method": "waitForElement",
+    "selector": "[data-testid=\"jobsearch-JobInfoHeader-title\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/siteExtractors.js",
+    "line": 903,
+    "method": "querySelector",
+    "selector": "[data-testid=\"jobsearch-JobInfoHeader-title\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/siteExtractors.js",
+    "line": 904,
+    "method": "querySelector",
+    "selector": "[data-testid=\"inlineHeader-companyName\"] a",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/siteExtractors.js",
+    "line": 905,
+    "method": "querySelector",
+    "selector": "[data-testid=\"inlineHeader-companyLocation\"] div",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/siteExtractors.js",
+    "line": 906,
+    "method": "querySelector",
+    "selector": "img[data-testid=\"jobsearch-JobInfoHeader-logo-overlay-lower\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/siteExtractors.js",
+    "line": 925,
+    "method": "querySelector",
+    "selector": "#jobDescriptionText",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/siteExtractors.js",
+    "line": 935,
+    "method": "querySelector",
+    "selector": null,
+    "dynamic": true
+  },
+  {
+    "file": "src/utils/siteExtractors.js",
+    "line": 959,
+    "method": "querySelector",
+    "selector": null,
+    "dynamic": true
+  },
+  {
+    "file": "src/utils/siteExtractors.js",
+    "line": 982,
+    "method": "waitForElement",
+    "selector": "h1[data-automation=\"job-detail-title\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/siteExtractors.js",
+    "line": 1001,
+    "method": "querySelector",
+    "selector": "span[data-automation=\"advertiser-name\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/siteExtractors.js",
+    "line": 1003,
+    "method": "querySelector",
+    "selector": "span[data-automation=\"jobCompany\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/siteExtractors.js",
+    "line": 1007,
+    "method": "querySelector",
+    "selector": "a[data-automation=\"jobCompany\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/siteExtractors.js",
+    "line": 1010,
+    "method": "querySelector",
+    "selector": "span[data-automation=\"job-detail-location\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/siteExtractors.js",
+    "line": 1011,
+    "method": "querySelector",
+    "selector": "div[data-testid=\"bx-logo-image\"] img",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/siteExtractors.js",
+    "line": 1035,
+    "method": "querySelector",
+    "selector": "div[data-automation=\"jobAdDetails\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/siteExtractors.js",
+    "line": 1043,
+    "method": "querySelector",
+    "selector": "#jobDescriptionText",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/siteExtractors.js",
+    "line": 1051,
+    "method": "querySelector",
+    "selector": "span[data-automation=\"jobShortDescription\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/siteExtractors.js",
+    "line": 1059,
+    "method": "querySelector",
+    "selector": "span[data-testid=\"job-card-teaser\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/siteExtractors.js",
+    "line": 1075,
+    "method": "querySelector",
+    "selector": "h1[data-automation=\"job-detail-title\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/siteExtractors.js",
+    "line": 1087,
+    "method": "querySelector",
+    "selector": "a[href*=\"/job/\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/siteExtractors.js",
+    "line": 1097,
+    "method": "querySelector",
+    "selector": "a[data-automation=\"job-detail-apply\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/siteExtractors.js",
+    "line": 1107,
+    "method": "closest",
+    "selector": "div",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/siteExtractors.js",
+    "line": 1109,
+    "method": "querySelectorAll",
+    "selector": "a[href*=\"/job/\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/siteExtractors.js",
+    "line": 1122,
+    "method": "querySelectorAll",
+    "selector": "[data-automation*=\"JobLink\"], [data-automation*=\"recommendedJobLink\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/siteExtractors.js",
+    "line": 1136,
+    "method": "querySelectorAll",
+    "selector": "button[id*=\"job-\"], button[id*=\"save-job-\"], button[id*=\"hide-job-\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/siteExtractors.js",
+    "line": 1147,
+    "method": "querySelector",
+    "selector": "article[aria-selected=\"true\"][data-job-id]",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/siteExtractors.js",
+    "line": 1154,
+    "method": "querySelector",
+    "selector": "article[aria-selected=\"true\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/siteExtractors.js",
+    "line": 1168,
+    "method": "querySelector",
+    "selector": null,
+    "dynamic": true
+  },
+  {
+    "file": "src/utils/siteExtractors.js",
+    "line": 1181,
+    "method": "querySelectorAll",
+    "selector": "a[data-automation*=\"recommendedJobLink\"], a[href*=\"/job/\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/siteExtractors.js",
+    "line": 1192,
+    "method": "querySelector",
+    "selector": "article[data-job-id]",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/siteExtractors.js",
+    "line": 1204,
+    "method": "querySelector",
+    "selector": "a[href*=\"/job/\"]",
+    "dynamic": false
+  },
+  {
+    "file": "src/utils/siteExtractors.js",
+    "line": 1272,
+    "method": "querySelector",
+    "selector": null,
+    "dynamic": true
+  }
+]

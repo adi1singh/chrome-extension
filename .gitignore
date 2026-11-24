@@ -1,0 +1,57 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+data flow
+file structure
+example_user_data
+docs/progress-view-plan.md
+src/content/linkedin_data_answer_example.json
+example_user_data_2.json
+example_user_data.json
+example_linkedin_data_answe.json
+example_linkedin_collection_normal.html
+exmaple_linkedin_collection_SDUI.html
+docs/linkedin-job-actions.md
+docs/panel-state-flow.md
+docs/not_selected_job.xml
+docs/selected_job.xml
+docs/not_selected_job_2.xml
+docs/selected_job_2.xml
+linkedin_new_tab_special.html
+linkedin_injection_issue.html
+docs/linkedin_profile_new_case.html
+docs/linkedin_profile_new_case_2.html
+
+# Local secrets and generated handover artifacts
+.env
+.env.*
+!.env.example
+release/
+__pycache__/
+*.pyc
+
+# Historical archives and raw page captures (keep local)
+dist.zip
+docs/*.html
+audit/*.patch
+audit/**/*.png

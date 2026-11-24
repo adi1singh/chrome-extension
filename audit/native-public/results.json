@@ -1,0 +1,84 @@
+{
+  "date": "2026-11-18",
+  "mode": "Native installed extension; public read-only pages",
+  "checks": [
+    {
+      "name": "MV3 service worker and storage APIs",
+      "status": "PASS"
+    },
+    {
+      "name": "seek public page",
+      "status": "OBSERVED",
+      "httpStatus": 200,
+      "title": "Software Engineer Job in Sydney NSW - SEEK",
+      "url": "https://au.seek.com/job/95747845",
+      "root": true,
+      "selectors": 1,
+      "loginVisible": true
+    },
+    {
+      "name": "Native content script injects on SEEK",
+      "status": "PASS"
+    },
+    {
+      "name": "Native SEEK floating button opens login panel",
+      "status": "PASS"
+    },
+    {
+      "name": "linkedin public page",
+      "status": "OBSERVED",
+      "httpStatus": 200,
+      "title": "Software Engineer Jobs in Sydney (2,000+ Open Roles) | LinkedIn",
+      "url": "https://www.linkedin.com/jobs/search/",
+      "root": true,
+      "selectors": 1,
+      "loginVisible": false
+    },
+    {
+      "name": "indeed public page",
+      "status": "ACCESS_LIMITED",
+      "httpStatus": 403,
+      "title": "Blocked - Indeed.com",
+      "url": "https://au.indeed.com/jobs",
+      "root": true,
+      "selectors": 1,
+      "loginVisible": false
+    }
+  ],
+  "errors": [
+    {
+      "message": "Failed to fetch",
+      "origin": "website-or-unattributed",
+      "stack": "Uncaught (in promise) TypeError: Failed to fetch\n    at <anonymous> (https://static.licdn.com/aero-v1/sc/h/26g24klhu4k9p8zgtz6fs4k01:1:29079)"
+    },
+    {
+      "message": "Cannot read properties of null (reading 'addEventListener')",
+      "origin": "website-or-unattributed",
+      "stack": "Uncaught (in promise) TypeError: Cannot read properties of null (reading 'addEventListener')\n    at Zu (https://static.licdn.com/aero-v1/sc/h/ddf57ar1tlv7asesgtt20qzwf:2:303873)\n    at <anonymous> (https://static.licdn.com/aero-v1/sc/h/ddf57ar1tlv7asesgtt20qzwf:2:1462970)\n    at _initContextualSignInModals (https://static.licdn.com/aero-v1/sc/h/ddf57ar1tlv7asesgtt20qzwf:2:1462959)\n    at <anonymous> (https://static.licdn.com/aero-v1/sc/h/ddf57ar1tlv7asesgtt20qzwf:2:1464079)"
+    }
+  ],
+  "browser": "159.0.8154.6",
+  "runtime": {
+    "id": "jkojdcggccemeoanaokpdclenmhikgfi",
+    "storage": true,
+    "version": "1.3.3"
+  },
+  "seekSelectors": {
+    "counts": {
+      "h1[data-automation=\"job-detail-title\"]": 1,
+      "span[data-automation=\"advertiser-name\"]": 1,
+      "span[data-automation=\"jobCompany\"]": 0,
+      "a[data-automation=\"jobCompany\"]": 0,
+      "span[data-automation=\"job-detail-location\"]": 1,
+      "div[data-automation=\"jobAdDetails\"]": 1,
+      "[data-automation=\"job-detail-apply\"]": 1
+    },
+    "signals": [
+      "company logo",
+      "company reviews",
+      "advertiser-name",
+      "job-detail-location",
+      "job-detail-apply"
+    ]
+  }
+}

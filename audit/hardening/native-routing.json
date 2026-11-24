@@ -1,0 +1,44 @@
+{
+  "mode": "Native extension APIs with intercepted synthetic pages; no real applications",
+  "checks": [
+    {
+      "name": "Originating tab and iframe each receive one native message while another tab is focused",
+      "status": "PASS",
+      "originCounts": [
+        1,
+        1
+      ],
+      "otherCounts": [
+        0
+      ]
+    },
+    {
+      "name": "Manual autofill in native main/iframe contexts never submits",
+      "status": "PASS",
+      "clicks": [
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Native background rejects unsupported commands",
+      "status": "PASS"
+    }
+  ],
+  "runtime": {
+    "id": "jkojdcggccemeoanaokpdclenmhikgfi",
+    "version": "1.3.3",
+    "storage": true
+  },
+  "contexts": {
+    "origin": 2,
+    "other": 1
+  },
+  "broadcast": {
+    "success": true,
+    "tabId": 157288147,
+    "framesContacted": 2,
+    "framesAcknowledged": 2
+  },
+  "blockedRequestCount": 0
+}
